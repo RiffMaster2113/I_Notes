@@ -1,1 +1,2 @@
-# I_Notes
+# NotesApp
+Created a Note App using ReactJs
